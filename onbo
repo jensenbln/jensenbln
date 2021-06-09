@@ -1,0 +1,29 @@
+### .bashrc
+alias ll='ls -la'
+alias la='ls -A'
+alias l='ls -l'
+alias li='ls -lia'
+
+###.vim plugin
+$ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+###.vimrc
+vi .vimrc
+
+set nu
+syn on
+
+call plug#begin()
+
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+call plug#end()
+
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+let g:airline#extensions#tabline#formatter = 'default'
+
+
