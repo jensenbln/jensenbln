@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jensenbln
-- 👀 I’m interested in some linux stuff, home autoamtion (homeassistant)
-- 🌱 I’m currently learning LPIC1 and LPIC2 to become some more professional and maybe fulltime work in that field.
+- 👀 I’m interested in some linux stuff, home automation (homeassistant)
+- 🌱 I’m currently learning LPIC1 and LPIC2 .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @jensen_inc
 
 <!---
 jensenbln/jensenbln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
