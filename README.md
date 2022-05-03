@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jensenbln
-- 👀 I’m interested in some linux stuff, esp & home automation (HomeAssistant)
-- 🌱 I’m currently learning LPIC1, LPIC2, AZ-104, AZ-303 & AZ-304 .
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in linux, ansible, homeasisstant, esp
+- 🌱 I’m constantliy learning (linux, cloud stuff, ci/cd)
+- 💞️ I’m looking to collaborate on nix special
 - 📫 Twitter @jensen_inc
 
 <!---
